@@ -76,3 +76,9 @@ Theorem proving with Lean and specifying systems with TLA+.
 - [Lean 4](https://github.com/leanprover/lean4) - The Lean 4 theorem prover.
 - [Mathlib4](https://github.com/leanprover-community/mathlib4) - The main math library for Lean 4.
 - [TLAPS](https://tla.msr-inria.inria.fr/tlaps/content/Home.html) - TLA+ Proof System for machine-checked proofs.
+
+## Other Proof Assistants
+
+- [Software Foundations (Volume 1: Logical Foundations)](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) - Benjamin Pierce et al. The premier interactive Coq textbook teaching formal logic, proof by induction, and program verification.
+- [Concrete Semantics: With Isabelle/HOL](https://concrete-semantics.org/) - Nipkow & Klein. Free textbook teaching PL semantics through formalization in Isabelle/HOL, covering IMP, Hoare logic, and compiler verification.
+- [The Hitchhiker's Guide to Logical Verification (Lean 4)](https://github.com/blanchette/interactive_theorem_proving_2024) - Jasmin Blanchette (VU Amsterdam). Course covering lambda calculus, semantics, and Hoare logic with machine-checked proofs.
